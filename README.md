@@ -1,4 +1,4 @@
 # day4
-- ECX May Challemge (Frontend - Intermidiate)
+- ECX May Challenge (Frontend - Intermidiate)
 - Quote Generator
 - https://heritagealabi.github.io/day4/
